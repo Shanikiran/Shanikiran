@@ -1,10 +1,10 @@
 ![MasterHead](https://info.digidex.finance/website.gif)
 <h1 align="center">Hi 👋, I'm Shanikiran Nimbalkar</h1>
-<h3 align="center">Software Consultant and Passionate Software developer from India</h3>
+<h3 align="center">Software Developer(Consultant) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanikiran&label=Profile%20views&color=0e75b6&style=flat" alt="shanikiran" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Develpoment, React.**
+- 🌱 I’m currently learning **Java, Angular, React.**
 
 - 📫 How to reach me **nimbalkarshanikiran7271@gmail.com**
 
@@ -19,18 +19,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+<p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies-thumbnail.png" alt="angular" width="40" height="40"/>
+  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
