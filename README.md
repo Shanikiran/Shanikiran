@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shanikiran-nimbalkar-230937225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanikiran-nimbalkar-230937225" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanikiran-g-nimbalkar-230937225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanikiran-nimbalkar-230937225" height="30" width="40" /></a>
 <a href="https://instagram.com/shanikirannimbalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanikirannimbalkar" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@nimbalkarshanikiran7271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@nimbalkarshanikiran7271" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@nimbalkarshanik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nimbalkarshanik1" height="30" width="40" /></a>
